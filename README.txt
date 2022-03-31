@@ -34,29 +34,3 @@ USAGE
     >>> y.update(' and eggs')
     >>> y.hexdigest()
     '1c54f569f9b5c7cec6a34465de51df10b0048f3d48f7051ac6eb2e54'
-
-DOCUMENTATION
-
-Real documentation for this module can be found in at least
-one of these locations:
-
-  http://docs.python.org/dev/lib/module-hashlib.html
-  http://docs.python.org/lib/module-hashlib.html
-  http://www.python.org/doc/2.5/lib/module-hashlib.html
-
-Happy hashing!
-
-Gregory P. Smith  ..  greg at krypto dot org
-
-LICENSE
-
- "PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2"
-
-Read the LICENSE file.
-
-The following MAY apply to binary packages of this module if they are linked
-with OpenSSL.  Read LICENSE.openssl file.
-
- "This product includes software developed by the OpenSSL Project
-  for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
-
